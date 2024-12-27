@@ -1,8 +1,8 @@
-# 💫 About Me:-
+# 💫 About Me:
 🌟I’m currently working on: Expanding my expertise in blockchain technology and applying it to innovative projects.<br>🤝I’m looking to collaborate on: Python, Java web development, data analysis, and machine learning projects.<br>🔍I’m looking for help with: Advanced blockchain use cases and integration strategies.<br>📚I’m currently learning: Blockchain development and its real-world applications.<br>💡Ask me about: Blockchain, Python, Java, data analysis, or machine learning.<br>⚡Fun fact: Blockchain technology is revolutionizing the way we think about trust and transparency in digital systems!
 
 
-## 🌐 Socials:-
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-shukla-bb5666252) 
 
 # 💻 Tech Stack:
